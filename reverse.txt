@@ -1,0 +1,10 @@
+Winbond W25Q64JV flash -> stm32
+
+1 /CS   -> 29
+2 DO    -> 31
+3 /WP   -> 28
+4 GND
+5 DI    -> 32
+6 CLK   -> 30
+7 /HOLD -> yhdessä /WP:n kanssa
+8 VCC   -> 3V3
